@@ -1,0 +1,5 @@
+﻿x:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(ConsoleApplication1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  ConsoleApplication1.cpp
+    正在创建库 X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\Debug\Infrastructure.DistributedIdGenerate.VcTest.lib 和对象 X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\Debug\Infrastructure.DistributedIdGenerate.VcTest.exp
+  ConsoleApplication1.vcxproj -> X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\Debug\Infrastructure.DistributedIdGenerate.VcTest.exe

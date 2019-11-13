@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Infrastructure.DistributedIdGenerate.cpp
+x:\users\漂亮的猫\desktop\infrastructure.distributedidgenerate.v1.0\infrastructure.distributedidgenerate\infrastructure.distributedidgenerate.cpp(256): warning C4244: “参数”: 从“__int64”转换到“const int”，可能丢失数据
+    正在创建库 X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\Debug\Infrastructure.DistributedIdGenerate.lib 和对象 X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\Debug\Infrastructure.DistributedIdGenerate.exp
+  Infrastructure.DistributedIdGenerate.vcxproj -> X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\Debug\Infrastructure.DistributedIdGenerate.dll

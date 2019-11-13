@@ -1,0 +1,22 @@
+﻿生成启动时间为 2019/6/20 11:31:36。
+     1>项目“D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\Infrastructure.DistributedIdGenerate\Infrastructure.DistributedIdGenerate.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D INFRASTRUCTUREDISTRIBUTEDIDGENERATE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /Zp1 /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Infrastructure.DistributedIdGenerate.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D INFRASTRUCTUREDISTRIBUTEDIDGENERATE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /Zp1 /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D INFRASTRUCTUREDISTRIBUTEDIDGENERATE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /Zp1 /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Infrastructure.DistributedIdGenerate.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Infrastructure.DistributedIdGenerate.cpp
+         Infrastructure.DistributedIdGenerate.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\Release\Infrastructure.DistributedIdGenerate.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\Release\Infrastructure.DistributedIdGenerate.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\Release\Infrastructure.DistributedIdGenerate.lib" /MACHINE:X86 /SAFESEH /DLL Release\dllmain.obj
+         Release\Infrastructure.DistributedIdGenerate.obj
+         Release\stdafx.obj
+            正在创建库 D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\Release\Infrastructure.DistributedIdGenerate.lib 和对象 D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\Release\Infrastructure.DistributedIdGenerate.exp
+         正在生成代码
+         已完成代码的生成
+         Infrastructure.DistributedIdGenerate.vcxproj -> D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\Release\Infrastructure.DistributedIdGenerate.dll
+     1>已完成生成项目“D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\Infrastructure.DistributedIdGenerate\Infrastructure.DistributedIdGenerate.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.01

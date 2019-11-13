@@ -1,0 +1,12 @@
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\SnowFlake\bin\Debug\SnowFlake.exe.config
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\SnowFlake\bin\Debug\SnowFlake.exe
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\SnowFlake\bin\Debug\SnowFlake.pdb
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\SnowFlake\obj\Debug\SnowFlake.csprojResolveAssemblyReference.cache
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\SnowFlake\obj\Debug\SnowFlake.exe
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\SnowFlake\obj\Debug\SnowFlake.pdb
+X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\SnowFlake\bin\Debug\SnowFlake.exe.config
+X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\SnowFlake\bin\Debug\SnowFlake.exe
+X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\SnowFlake\bin\Debug\SnowFlake.pdb
+X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\SnowFlake\obj\Debug\SnowFlake.csproj.CoreCompileInputs.cache
+X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\SnowFlake\obj\Debug\SnowFlake.exe
+X:\Users\漂亮的猫\Desktop\Infrastructure.DistributedIdGenerate.v1.0\SnowFlake\obj\Debug\SnowFlake.pdb

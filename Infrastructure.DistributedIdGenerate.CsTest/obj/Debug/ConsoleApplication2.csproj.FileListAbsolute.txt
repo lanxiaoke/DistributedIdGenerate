@@ -1,0 +1,5 @@
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Users\lanjianrong\Desktop\cc\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
